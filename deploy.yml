@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: veer2/test8
+        image: babucho/prj2_prd
         ports:
         - containerPort: 80
